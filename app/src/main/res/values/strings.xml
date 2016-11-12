@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google-todo-mvp2</string>
+    <string name="emptyToDos">you have no to-dos!</string>
+    <string name="add_to_do">add a todo item +</string>
+    <string name="menu_item_filter">filter</string>
+    <string name="menu_item_clear">clear completed</string>
+    <string name="menu_item_refresh">refresh</string>
+    <string name="load_task_error">加载task出错</string>
+</resources>
